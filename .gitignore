@@ -1,0 +1,40 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Entity Framework
+Migrations/
+
+# User secrets & environment
+appsettings.Development.json
+*.env
+
+# NuGet
+*.nupkg
+[Pp]ackages/
+
+# Database
+*.db
+*.mdf
+*.ldf
+
+# Logs
+*.log
+[Ll]ogs/
+
+# Docker
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
