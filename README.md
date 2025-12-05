@@ -1,8 +1,8 @@
-# 🎫 API REST de Gestión de Tickets
+# API REST de Gestión de Tickets
 
 Sistema de Gestión de incidentes y tickets de soporte técnico desarrollado con ASP.NET Core Web API, Entity Framework Core y SQL Server.
 
-## 🚀 Características
+## Características
 
 - **Autenticación JWT** - Seguridad con tokens
 - **Sistema de estados** - Abierto → En Progreso → Cerrado
@@ -10,7 +10,7 @@ Sistema de Gestión de incidentes y tickets de soporte técnico desarrollado con
 - **Historial de cambios** - Auditoría completa
 - **Prioridades y tipos** - Clasificación de tickets
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **ASP.NET Core** - Framework Web API
 - **Entity Framework Core** - ORM
