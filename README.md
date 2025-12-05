@@ -63,5 +63,4 @@ docker-compose exec api dotnet ef database update
 
 Acceder a Swagger: http://localhost:5000/swagger
 
-## Estructura del Proyecto
 
